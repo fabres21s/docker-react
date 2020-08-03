@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-          with docker compose
+          I was changed on the feature branch!! :)
       </p>
     </div>
   );
